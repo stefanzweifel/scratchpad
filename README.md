@@ -1,8 +1,7 @@
 # Scratchpad
 A minimal scratchpad for when you need a place to quickly write something down.  
 
-
-Inspired and built upon [bastianallgeier/bulletjournal(https://github.com/bastianallgeier/bulletjournal)].
+Inspired and built upon [bastianallgeier/bulletjournal](https://github.com/bastianallgeier/bulletjournal).
 
 ## Demo
 <https://scratchpad-13a0ac.netlify.app>
